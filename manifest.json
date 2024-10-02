@@ -1,0 +1,22 @@
+{
+    "name": "Galería de Fotos",
+    "short_name": "Galería",
+    "description": "Una PWA para mostrar una galería de fotos usando la API de JSONPlaceholder.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4A90E2",
+    "iconos": [
+      {
+        "src": "/iconos/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/iconos/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
